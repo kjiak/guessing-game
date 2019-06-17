@@ -1,8 +1,7 @@
 # Guessing game
 
 ## Build
-### Create new package
-create new: `cargo new hello_world --bin (binary)(default)/--lib (library)` <br>
+create new package: `cargo new hello_world --bin (binary)(default)/--lib (library)` <br>
 build: <br>
 `cargo build` <br>
 `./target/debug/hello_world` <br>
